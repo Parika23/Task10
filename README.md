@@ -1,7 +1,7 @@
 # Task 10 — Flight Operations Data Analysis
 
 ## Files
-- `Flight_Operations.ipynb` — Complete Google Colab/Pandas data-analysis notebook.
+- `Flight_Operations.ipynb` — Complete Google Colab/Pandas data analysis notebook.
 - `Day10_Flight_Operations_Dataset.csv` — Flight Operations dataset used in the analysis.
 
 ## Objective
