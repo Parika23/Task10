@@ -50,4 +50,4 @@ Task10/
 - The 7 missing delay values are associated with cancelled flights.
 - Some flights produce load factors above 100%, indicating a data-quality issue that should be investigated.
 
-> **Note:** Estimated revenue is an analytical estimate, not actual accounting revenue. Load-factor anomalies are reported as data-quality findings rather than silently corrected.
+> **Note:** Estimated revenue is an analytical estimate, not actual accounting revenue. Load factor anomalies are reported as data quality findings rather than silently corrected.
