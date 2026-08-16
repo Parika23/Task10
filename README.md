@@ -14,8 +14,8 @@ Perform a complete data analysis workflow using Pandas on the Flight Operations 
 - Sorting records
 - Grouping and aggregation
 - Creating transformed/derived columns
-- Airline, route, weather, travel-class, booking-channel, monthly, and flight-status analysis
-- Identifying patterns, operational findings, and data-quality issues
+- Airline, route, weather, travel class, booking channel, monthly, and flight status analysis
+- Identifying patterns, operational findings, and data quality issues
 - Writing 8 key observations and a conclusion
 
 ## How to Run in Google Colab
