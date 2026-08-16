@@ -2,10 +2,10 @@
 
 ## Files
 - `Flight_Operations.ipynb` — Complete Google Colab/Pandas data-analysis notebook.
-- `Flight_Operations.csv` — Flight Operations dataset used in the analysis.
+- `Day10_Flight_Operations_Dataset.csv` — Flight Operations dataset used in the analysis.
 
 ## Objective
-Perform a complete data-analysis workflow using Pandas on the Flight Operations dataset. The notebook covers:
+Perform a complete data analysis workflow using Pandas on the Flight Operations dataset. The notebook covers:
 
 - Loading and understanding the dataset
 - Inspecting rows, columns, data types, missing values, duplicates, and descriptive statistics
@@ -21,7 +21,7 @@ Perform a complete data-analysis workflow using Pandas on the Flight Operations 
 ## How to Run in Google Colab
 
 1. Open `Flight_Operations.ipynb` in Google Colab.
-2. Upload `Flight_Operations.csv` to the Colab session if it is not already available.
+2. Upload `Day10_Flight_Operations_Dataset.csv` to the Colab session if it is not already available.
 3. Run the notebook from top to bottom using **Runtime → Run all**.
 4. Review the generated tables and analysis results.
 5. Save the completed notebook if you make any additional changes.
@@ -31,7 +31,7 @@ Perform a complete data-analysis workflow using Pandas on the Flight Operations 
 ```text
 Task10/
 ├── Flight_Operations.ipynb
-├── Flight_Operations.csv
+├── Day10_Flight_Operations_Dataset.csv
 └── README.md
 ```
 
@@ -42,7 +42,7 @@ Task10/
 ## Key Findings
 
 - 114 of 180 flights are On Time, 59 are Delayed, and 7 are Cancelled.
-- Delayed flights have lower average passenger satisfaction than on-time flights.
+- Delayed flights have lower average passenger satisfaction than on time flights.
 - Rain has the highest average delay among the weather categories.
 - Vistara has the highest estimated revenue under the notebook's simple passengers × average ticket price calculation.
 - Premium Economy has the highest average satisfaction among the three travel classes.
